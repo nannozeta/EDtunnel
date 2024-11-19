@@ -8,10 +8,10 @@ compatibility_date = "2023-05-26"
 pattern = "sg1.znand.my.id"
 custom_domain = true
 [[routes]]
-pattern = "img.email1.vidio.com.sg1.znand.my.id"
+pattern = "cache.iflix.com.sg1.znand.my.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.sg1.znand.my.id"
+pattern = "live.iflix.com.sg1.znand.my.id"
 custom_domain = true
 
 [vars]
@@ -21,4 +21,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "574a8398-459f-4fbb-a239-4b73a15e82f5"
+UUID = "4cc95a53-a1d2-4719-8e04-e9921736c649"
